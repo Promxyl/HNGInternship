@@ -1,0 +1,26 @@
+.navbar {
+    height: 80px;
+    background-color: #fff;
+    text-align: center;
+  
+}
+
+.header {
+    padding: 154px 0 100px;
+    height: 150px;
+    background-color: black; 
+    color: white;
+    text-align: center;
+
+}
+
+.mailbody{
+        text-align: left;
+        font-size: 1rem;
+        padding: 10px 70px 10px 70px;
+    
+}
+
+.name_title{
+    text-align: left;
+}
